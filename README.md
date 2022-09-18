@@ -8,4 +8,4 @@ Since the data used in this study include naturalistic speech samples that can b
 
 If you use the code in your research, we would appreciate a citation to the appropriate paper(s):
 
-> Z. L. Zhang, L-Z. Yang, X. Wang, H. Li. Automated Detection of Wilson’s Disease Based on Improved Mel-frequency Cepstral Coefficients with Signal Decomposition.  *Proc. Interspeech 2022*, pp.
+> Z. L. Zhang, L-Z. Yang, X. Wang, H. Li. Automated Detection of Wilson’s Disease Based on Improved Mel-frequency Cepstral Coefficients with Signal Decomposition.  *Proc. Interspeech 2022*, pp. 2143-2147, 2022. doi: 10.21437/Interspeech.2022-859
